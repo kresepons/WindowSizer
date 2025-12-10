@@ -262,9 +262,8 @@ WindowSizer/
 
 ## 💬 联系方式
 
-- **网站**: [https://yourwebsite.com](https://yourwebsite.com)
-- **问题反馈**: [GitHub Issues](https://github.com/yourusername/WindowSizer/issues)
-- **邮箱**: your.email@example.com
+- **网站**: [https://github.com/kresepons/WindowSizer](https://github.com/kresepons/WindowSizer)
+- **问题反馈**: [GitHub Issues](https://github.com/kresepons/WindowSizer/issues)
 
 ---
 
