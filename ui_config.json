@@ -1,0 +1,39 @@
+{
+    "themes_folder": "themes",
+    "default_theme": "light",
+    "icon_paths": {
+        "app_icon": "resources/icon.png",
+        "tray_icon": "resources/icon.png",
+        "btn_save": "resources/btn_save.png",
+        "btn_delete": "resources/btn_delete.png",
+        "btn_add": "resources/btn_add.png",
+        "btn_apply": "resources/btn_apply.png",
+        "btn_refresh": "resources/btn_refresh.png",
+        "btn_import": "resources/btn_import.png",
+        "btn_export": "resources/btn_export.png",
+        "btn_home": "resources/btn_home.png",
+        "btn_settings": "resources/btn_settings.png",
+        "btn_themes": "resources/btn_themes.png",
+        "power": "resources/power.png"
+    },
+    "color_schemes": {
+        "light": {
+            "name": "浅色主题",
+            "background": "#f3f3f3",
+            "window": "#ffffff",
+            "highlight_background": "#f9f9f9",
+            "border": "#d1d1d1",
+            "button": "#005fb8",
+            "button_hover": "#0078d4"
+        },
+        "dark": {
+            "name": "深色主题",
+            "background": "#202020",
+            "window": "#2b2b2b",
+            "highlight_background": "#3b3b3b",
+            "border": "#3f3f3f",
+            "button": "#0078d4",
+            "button_hover": "#1890e8"
+        }
+    }
+}
